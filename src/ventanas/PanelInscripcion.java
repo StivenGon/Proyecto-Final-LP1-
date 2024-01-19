@@ -704,7 +704,6 @@ public class PanelInscripcion extends javax.swing.JFrame {
 
     private void BtnFrenteGuardarMousePressed(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_BtnFrenteGuardarMousePressed
         // ACA VA CÓDIGO PARA REALIZAR EJECUCIONES
-
         String id = CuadroID.getText();
         String nombre = CuadroNombre.getText();
         String documento = CuadroCI.getText();
